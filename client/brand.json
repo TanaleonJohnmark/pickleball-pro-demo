@@ -1,0 +1,18 @@
+{
+  "clubName": "Pickleball Pro Demo Club",
+  "shortName": "Pickleball Pro",
+  "subName": "by JT",
+  "logo": "/brand/logo.png",
+  "logoFull": "/brand/logo-full.png",
+  "favicon": "/brand/favicon.png",
+  "poweredBy": "Pickleball Pro by JT",
+  "features": { "matches": false, "tournaments": false, "rankings": false, "coaching": false, "memberships": false },
+  "colors": {
+    "navy":  { "950": "#07111F", "900": "#0C1B2E", "800": "#14273F", "700": "#1F3754", "600": "#2E4A6B", "300": "#94A9C3", "100": "#E3EAF3" },
+    "court": { "700": "#1F5E3A", "600": "#277348", "500": "#2F8A56", "100": "#DDF0E3", "50": "#EEF8F1" },
+    "cyan":  { "500": "#12A7BF", "400": "#33C3D8", "100": "#D5F3F8" },
+    "gold":  { "500": "#B8891A", "400": "#E0B43F", "100": "#FBF0D2" },
+    "paper": "#F5F7F6",
+    "ink": "#0C1B2E"
+  }
+}
